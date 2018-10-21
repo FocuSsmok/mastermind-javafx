@@ -1,0 +1,20 @@
+.choiceColor {
+    -fx-background-radius: 50%;
+    -fx-pref-width: 50px;
+    -fx-pref-height: 50px;
+    -fx-border-width: none;
+}
+
+.circleBtn {
+    -fx-background-radius: 50%;
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-background-color: lightgray;
+}
+
+.hintBtn {
+    -fx-background-radius: 50%;
+    -fx-min-width: 25px;
+    -fx-min-height: 25px;
+    -fx-background-color: lightgray;
+}
